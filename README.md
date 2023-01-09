@@ -1,2 +1,2 @@
 # send-user-welcome-video-email-function
-Backedn function to welcome new user with personalized video using Cloudinary Media Transfromation when added to firebase users collection.
+Back-end function to welcome new user with personalized video using Cloudinary Media Transfromation when added to users collection in database.
